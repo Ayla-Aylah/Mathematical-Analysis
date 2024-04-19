@@ -1,0 +1,42 @@
+D:\reviews\pjet2023\Mathematical_Analysis\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.exe.config
+D:\reviews\pjet2023\Mathematical_Analysis\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.exe
+D:\reviews\pjet2023\Mathematical_Analysis\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.pdb
+D:\reviews\pjet2023\Mathematical_Analysis\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.xml
+D:\reviews\pjet2023\Mathematical_Analysis\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.vbprojResolveAssemblyReference.cache
+D:\reviews\pjet2023\Mathematical_Analysis\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.Form1.resources
+D:\reviews\pjet2023\Mathematical_Analysis\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.Resources.resources
+D:\reviews\pjet2023\Mathematical_Analysis\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.vbproj.GenerateResource.Cache
+D:\reviews\pjet2023\Mathematical_Analysis\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.exe
+D:\reviews\pjet2023\Mathematical_Analysis\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.xml
+D:\reviews\pjet2023\Mathematical_Analysis\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.pdb
+C:\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.exe.config
+C:\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.exe
+C:\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.xml
+C:\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.pdb
+C:\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.exe
+C:\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.pdb
+C:\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.xml
+C:\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.vbprojResolveAssemblyReference.cache
+C:\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.Resources.resources
+C:\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.vbproj.GenerateResource.Cache
+C:\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.frmdisplay.resources
+C:\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.exe.manifest
+C:\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.application
+C:\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.exe.manifest
+C:\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.application
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.exe.config
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.exe.manifest
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.application
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.exe
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.pdb
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\bin\Debug\Mathematical_Analysis.xml
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.vbproj.AssemblyReference.cache
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.frmdisplay.resources
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.Resources.resources
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.vbproj.GenerateResource.cache
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.vbproj.CoreCompileInputs.cache
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.exe.manifest
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.application
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.exe
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.xml
+C:\L3DC VB dot Net Projects\Mathematical_Analysis\Mathematical_Analysis\obj\Debug\Mathematical_Analysis.pdb
